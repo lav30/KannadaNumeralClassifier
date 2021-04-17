@@ -1,0 +1,8 @@
+setuptools==41.0.0
+gradio
+tensorflow==2.0.0
+numpy
+requests
+pandas
+keras
+
