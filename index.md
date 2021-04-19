@@ -6,4 +6,4 @@ This project is similar to the MNIST image classification project but with handw
 
 ![Alt Text](kannada4.gif)
 
-[Image Credit] (https://omniglot.com/writing/kannada.htm)
+[Image Credit](https://omniglot.com/writing/kannada.htm)
