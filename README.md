@@ -14,9 +14,6 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 Several performance metrics have been utilised to determine the model generalization capability on the test set. Accuracy, precision and recall are a few well known metrics used for image data. Other metrics such as the ROC curve can also be used to determine how well the model generalizes. 
 
-![Alt Text](CM.png)
-
-![Alt Text](classificationreport.png)
 
 ## Citation 
 
