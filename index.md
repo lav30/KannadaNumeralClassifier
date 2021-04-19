@@ -8,7 +8,17 @@ This project is similar to the MNIST image classification project but with handw
 
 [Image Credit](https://omniglot.com/writing/kannada.htm)
 
-### Project Description : Modules used, Data Preprocessing, Data generator, Model definition, model training 
+### Project Description : 
+
+Modules used
+
+Data Preprocessing
+
+Data generator
+
+Model definition
+
+Model training 
 
 ### Model Performance 
 
