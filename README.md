@@ -1,3 +1,3 @@
 # KannadaDigitRecognizer
 
-![Alt Text](.gif)
+![Alt Text](kannadadigits.gif)
