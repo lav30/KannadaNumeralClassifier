@@ -12,6 +12,9 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 ## Results 
 
+Several performance metrics have been utilised to determine the model generalization capability on the test set. Accuracy, precision and recall are a few well known metrics used for image data. Other metrics such as the ROC curve can also be used to determine how well the model generalizes. 
+
+
 ## Citation 
 
 Prabhu, V. (2019, August 03). Kannada-MNIST: A new handwritten DIGITS dataset for the Kannada language. Retrieved April 19, 2021, from https://arxiv.org/abs/1908.01242v1
