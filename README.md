@@ -1,1 +1,3 @@
 # KannadaDigitRecognizer
+
+![Alt Text](.gif)
