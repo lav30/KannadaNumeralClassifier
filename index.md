@@ -7,3 +7,9 @@ This project is similar to the MNIST image classification project but with handw
 ![Alt Text](kannada4.gif)
 
 [Image Credit](https://omniglot.com/writing/kannada.htm)
+
+### Project Description : Modules used, Data Preprocessing, Data generator, Model definition, model training 
+
+### Model Performance 
+
+### GUI : Gradio 
