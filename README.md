@@ -10,6 +10,8 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 ## Project Description
 
+Image classification project with multiple labels.
+
 ![Alt Text](CNNML.png)
 
 
@@ -20,7 +22,10 @@ Several performance metrics have been utilised to determine the model generaliza
 
 ## Citation 
 
-Prabhu, V. (2019, August 03). Kannada-MNIST: A new handwritten DIGITS dataset for the Kannada language. Retrieved April 19, 2021, from https://arxiv.org/abs/1908.01242v1
+1. Prabhu, V. (2019, August 03). Kannada-MNIST: A new handwritten DIGITS dataset for the Kannada language. Retrieved April 19, 2021, from https://arxiv.org/abs/1908.01242v1
+
+
+2. [NN-SVG rendering of the model in AlexNet style](https://alexlenail.me/NN-SVG/) 
 
 ## License
 
