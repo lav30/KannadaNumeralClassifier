@@ -10,7 +10,7 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 ## Project Description
 
-![image](https://user-images.githubusercontent.com/49737012/115484734-23438e00-a208-11eb-98fd-b35614ad6922.png)
+![Alt Text](OP ML.jpg)
 
 
 ## Results 
