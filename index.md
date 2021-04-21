@@ -17,13 +17,11 @@ The image below provides a high level view of how the model classifies an image 
 
 [Image Credit](https://alexlenail.me/NN-SVG/)
 
-Modules used
+- Data Preprocessing : 
 
-Data Preprocessing
+- Model Definition : 
 
-Model definition
-
-Model training 
+- Model Training : 
 
 ### Model Performance 
 
