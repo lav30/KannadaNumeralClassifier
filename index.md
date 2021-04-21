@@ -15,6 +15,8 @@ The image below provides a high level view of how the model classifies an image 
 
 ![Alt Text](CNNML.png)
 
+[Image Credit](https://alexlenail.me/NN-SVG/)
+
 Modules used
 
 Data Preprocessing
