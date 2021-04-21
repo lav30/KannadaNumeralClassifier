@@ -1,4 +1,4 @@
-# Kannada Handwritten Digit Recognizer
+## Kannada Handwritten Digit Recognizer
 
 ![Alt Text](kannadadigits.gif)
 
