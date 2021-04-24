@@ -10,7 +10,7 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 ## Project Description
 
-Image classification project with multiple labels.
+Mutlilabel image classification : High level view of the model 
 
 ![Alt Text](CNNML.png)
 
