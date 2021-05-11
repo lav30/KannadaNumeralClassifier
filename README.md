@@ -13,7 +13,7 @@ Owing to the dataset size and limitations of web deployment , Heroku deployment 
 
 The dataset can be accessed on [Kaggle](https://www.kaggle.com/c/Kannada-MNIST/data)
 
-Mutlilabel image classification : High level view of the model 
+### <h3 align="center" id="Multilabel Classification : High Level View of the Model">Multilabel Classification : High Level View of the Model</h3>
 ![Alt Text](CNNML.png)
 
 [Image created using NN-SVG](https://alexlenail.me/NN-SVG/)
