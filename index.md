@@ -17,7 +17,7 @@ The image below provides a high level view of how the model classifies an image 
 
 ![Alt Text](CNNML.png)
 
-[[Image created using NN-SVG](https://alexlenail.me/NN-SVG/)
+[Image created using NN-SVG](https://alexlenail.me/NN-SVG/)
 
 ### Data Preprocessing 
 
