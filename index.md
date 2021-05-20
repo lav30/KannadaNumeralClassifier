@@ -35,7 +35,7 @@ The activation function used between the model layers is ReLu and the output lay
 
 Accuracy is used as the primary metric since the dataset is fairly balanced. Precision and recall are also computed using the classification report. 
 
-- Model Accuracy
+- Model Accuracy : The accuracy in both the traning ans validation sets has followed the same trajectory. The model has generalized well and hence this can be used as a reliable metric to measure performance.
 
 ![](accuracy.png)
 
@@ -43,6 +43,14 @@ Accuracy is used as the primary metric since the dataset is fairly balanced. Pre
 - Model Loss
 
 ![](loss.png)
+
+- Confusion Matrix : The confusion matrix displays the model predictions on each label for both the ground truth and model predictions. From the image below, it can be seen that the images of numerals 0 and 1 are usually misclassifed as ech other and the same case hold for digits 6 and 9. 
+
+![](cm_k.png)
+
+- Classification Report : This report displays the precision, recall and F1-score for each of the ten labels. For imbalanced datasets, these metrics are of paramount importance. 
+
+![]()
 
 ### GUI : Gradio 
 
