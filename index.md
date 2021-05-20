@@ -33,6 +33,16 @@ The activation function used between the model layers is ReLu and the output lay
 
 ### Model Performance 
 
+Accuracy is used as the primary metric since the dataset is fairly balanced. Precision and recall are also computed using the classification report. 
+
+- Model Accuracy
+
+![](accuracy.png)
+
+
+- Model Loss
+
+![](loss.png)
 
 ### GUI : Gradio 
 
