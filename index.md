@@ -54,5 +54,11 @@ Accuracy is used as the primary metric since the dataset is fairly balanced. Pre
 
 ### GUI : Gradio 
 
-Model performance verification using a realtime, interactive interface to make live predictions. 
-Draw the numeral and the model predicts the label with accuracy displayed.(confidence that that label is correct displayed in %) 
+Model performance verification using a realtime, interactive interface to make live predictions.  
+A numeral is drawn and the model predicts the label with accuracy displayed.(Confidence that that label is correct is displayed in %). Model complexity and dataset size have prevented deployment to a website. However, local deployment available.
+
+This project was an inspiration from the hugely popular MNIST dataset for handwritten digit classification.
+
+### Sources 
+
+- 1. Prabhu, V. (2019, August 03). Kannada-MNIST: A new handwritten DIGITS dataset for the Kannada language. Retrieved April 19, 2021, from https://arxiv.org/abs/1908.01242v1
