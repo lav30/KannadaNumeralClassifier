@@ -50,7 +50,7 @@ Accuracy is used as the primary metric since the dataset is fairly balanced. Pre
 
 - Classification Report : This report displays the precision, recall and F1-score for each of the ten labels. For imbalanced datasets, these metrics are of paramount importance. 
 
-![](cr.png)
+![](cr1.png)
 
 ### GUI : Gradio 
 
