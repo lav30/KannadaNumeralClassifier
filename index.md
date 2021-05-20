@@ -22,7 +22,7 @@ The image below provides a high level view of how the model classifies an image 
 ### Data Preprocessing 
 
 - For the data processing, the images which are encoded as integers from 0 to 255 are converted to a range between 0 and 1 to maintain homogeneous data. 
-- - Explicit feature engineering is not required for deep neural networks because the model automatically extracts useful and relevant information from the images for classification.
+- Explicit feature engineering is not required for deep neural networks because the model automatically extracts useful and relevant information from the images for classification.
 - The target labels are one-hot encoded and the training and test images are reshaped into a format suitable for the model. 
 - To prevent overfitting, images present in the training set can be augmented artificially to generate more images and hence improve the model's generalization capabilities. The images are randomly rotated, zoomed outwards and inwards, vertically and horizontally shaped and feature decorrelation is acheived using the ZCA feature. Since the convolution operation is translation invariant, the model will recognize the features in an image post augmentation. 
 
