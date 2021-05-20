@@ -54,8 +54,7 @@ Accuracy is used as the primary metric since the dataset is fairly balanced. Pre
 
 ### GUI : Gradio 
 
-Model performance verification using a realtime, interactive interface to make live predictions.  
-A numeral is drawn and the model predicts the label with accuracy displayed.(Confidence that that label is correct is displayed in %). Model complexity and dataset size have prevented deployment to a website. However, local deployment available.
+Model performance verification using a realtime, interactive interface to make live predictions. The Gradio sketchpad takes in hand drawn numerals and diplays the prediction in a sperate window. A numeral is drawn and the model predicts the label with the accuracy displayed.(Confidence that that label is correct is displayed in %). Model complexity and dataset size have prevented deployment to a website. However, local deployment is available.
 
 This project was an inspiration from the hugely popular MNIST dataset for handwritten digit classification.
 
