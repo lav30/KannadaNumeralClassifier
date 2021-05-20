@@ -21,16 +21,18 @@ The image below provides a high level view of how the model classifies an image 
 
 ### Data Preprocessing 
 
-Image preprocessing and data augmentation
+- For the data processing, the images which are encoded as integers from 0 to 255 are converted to a range between 0 and 1 to maintain homogeneous data. 
+- - Explicit feature engineering is not required for deep neural networks because the model automatically extracts useful and relevant information from the images for classification.
+- The target labels are one-hot encoded and the training and test images are reshaped into a format suitable for the model. 
+- To prevent overfitting, images present in the training set can be augmented artificially to generate more images and hence improve the model's generalization capabilities. The images are randomly rotated, zoomed outwards and inwards, vertically and horizontally shaped and feature decorrelation is acheived using the ZCA feature. Since the convolution operation is translation invariant, the model will recognize the features in an image post augmentation. 
 
 ### Model Definition 
 
-Layers, optimizer and loss function 
+This CNN model has several layers including Conv2D layers,Dense layers and a Flatten layer. 
+The activation function used between the model layers is ReLu and the output layer has a softmax activation function that generates ten different probabilities of the image belonging to a certain label. Dropout is a regularization method that randomly drops several layer connections to prevent overfitting. Model accuracy is monitored throught model training and a callback is defined to monitor the learning rate. If the validation accuracy does not improve after 3 epochs, the leanring rate is halved. 
 
 ### Model Performance 
 
-Training, validation and test accuracy. 
-Model metrics
 
 ### GUI : Gradio 
 
