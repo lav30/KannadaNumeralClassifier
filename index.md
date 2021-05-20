@@ -46,7 +46,7 @@ Accuracy is used as the primary metric since the dataset is fairly balanced. Pre
 
 - Confusion Matrix : The confusion matrix displays the model predictions on each label for both the ground truth and model predictions. From the image below, it can be seen that the images of numerals 0 and 1 are usually misclassifed as ech other and the same case hold for digits 6 and 9. 
 
-![](cm_k-2.png)
+![](cm_k-3.png)
 
 - Classification Report : This report displays the precision, recall and F1-score for each of the ten labels. For imbalanced datasets, these metrics are of paramount importance. 
 
