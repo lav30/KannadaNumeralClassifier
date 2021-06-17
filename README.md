@@ -21,7 +21,7 @@ The dataset can be accessed on [Kaggle](https://www.kaggle.com/c/Kannada-MNIST/d
 
 ## Results 
 
-Several performance metrics have been utilised to determine the model generalization capability on the test set. Accuracy, precision and recall are a few well known metrics used for image data. Other metrics such as the ROC curve can also be used to determine how well the model generalizes. 
+Several performance metrics have been utilised to determine model generalization capability on the test set. Accuracy, precision and recall have been used to determine model prediction ability. Other metrics such as the ROC curve is also used to determine how well the model generalizes on previously unseen images. 
 
 
 ## Citation 
